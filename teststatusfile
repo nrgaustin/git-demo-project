@@ -1,3 +1,6 @@
 Hello World
 Goodbye World!!
 teststatusfile
+SELECT * FROM customers
+Where last_name = 'Smith'
+LIMIT 100
