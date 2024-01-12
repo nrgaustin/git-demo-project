@@ -4,3 +4,4 @@ teststatusfile
 SELECT * FROM customers
 Where last_name = 'Smith'
 LIMIT 100
+ORDER BY new_line
